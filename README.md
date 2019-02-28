@@ -1,2 +1,2 @@
-# Firebase Authentication
-This application which is created for use some Google Firebase Authentication 
+# Trth and Dare 
+This application is created for playing with Tryth and Dare 
